@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevave",
+        "uuid": 39569460,
+        "checksum": "spx9vb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
